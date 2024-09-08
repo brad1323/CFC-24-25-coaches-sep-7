@@ -5,16 +5,16 @@ Air Force,Brian Knorr,DC,6
 Akron,Joe Moorhead,HC,7
 Akron,Billy Fessler,OC,5
 Akron,Tim Tibesar,DC,4
-Alabama,Nick Saban,HC,9
-Alabama,Tommy Rees,OC,8
-Alabama,Kevin Steele,DC,8
-Arizona,Jedd Fisch,HC,7
-Arizona,Brennan Carroll,OC,6
-Arizona,Johnny Nansen,DC,5
+Alabama,Kalen DeBoet,HC,8
+Alabama,Nick Sheridan,OC,7
+Alabama,Maurice Linguist,DC,6
+Arizona,Brent Brennan,HC,6
+Arizona,Dino Babers,OC,6
+Arizona,Duane Atkina,DC,5
 Arizona State,Kenny Dillingham,HC,7
 Arizona State,Marcus Arroyo,OC,7
-Arizona State,Brian Ward,DC,4
-Arkansas,Sam Pittman,HC,5
+Arizona State,Brian Ward,DC,5
+Arkansas,Sam Pittman,HC,6
 Arkansas,Bobby Petrino,OC,6
 Arkansas,Marcus Woodson,DC,4
 Arkansas State,Butch Jones,HC,6
@@ -24,25 +24,25 @@ Army,Jeff Monken,HC,6
 Army,Drew Thatcher,OC,6
 Army,Nate Woody,DC,6
 Auburn,Hugh Freeze,HC,6
-Auburn,Philip Montgomery,OC,4
-Auburn,Ron Roberts,DC,4
+Auburn,Derrick Nix,OC,5
+Auburn,DJ Durkin,DC,4
 Ball State,Mike Neu,HC,5
 Ball State,Kevin Lynch,OC,4
-Ball State,Tyler Stockton,DC,4
+Ball State,Jeff Knowles,DC,4
 Baylor,Dave Aranda,HC,7
 Baylor,Jake Spavital,OC,5
 Baylor,Matt Powledge,DC,5
-Boise State,Spencer Danielson,HC,5
+Boise State,Spencer Danielson,HC,6
 Boise State,Bush Hamden,OC,4
-Boise State,Erik Chinander,DC,4
-Boston College,Jeff Hafley,HC,4
-Boston College,Steve Shimko,OC,4
-Boston College,Sean Duggan,DC,3
+Boise State,Tyler Stockton,DC,4
+Boston College,Bill O Brien,HC,7
+Boston College,Will Lawing,OC,4
+Boston College,Tim Lewis,DC,4
 Bowling Green,Scot Loeffler,HC,4
 Bowling Green,Greg Nosal,OC,2
 Bowling Green,Steve Morrison,DC,2
-Buffalo,Maurice Linguist,HC,3
-Buffalo,DJ Mangas,OC,3
+Buffalo,Pete Lembo,HC,3
+Buffalo,Dave Patenaude,OC,3
 Buffalo,Joe Cauthen,DC,2
 BYU,Kalani Sitake,HC,8
 BYU,Aaron Roderick,OC,7
@@ -62,13 +62,13 @@ Cincinnati,Bryan Brown,DC,5
 Clemson,Dabo Swinney,HC,9
 Clemson,Garett Riley,OC,8
 Clemson,Mickey Conn,DC,6
-Colorado,Deion Sanders,HC,9
+Colorado,Deion Sanders,HC,8
 Colorado,Pat Shurmur,OC,6
-Colorado,Charles Kelly,DC,7
+Colorado,Robert Livingston,DC,5
 Colorado State,Jay Norvell,HC,7
 Colorado State,Matt Mumme,OC,4
 Colorado State,Freddie Banks,DC,5
-Duke,Manny Diaz,HC,8
+Duke,Manny Diaz,HC,7
 Duke,Johnathan Brewer,OC,5
 Duke,Johnathan Patke,DC,6
 East Carolina,Mike Houston,HC,5
@@ -88,7 +88,7 @@ Fresno State,Pat Mccann,OC,6
 Fresno State,Kevin Coyle,DC,5
 Georgia,Kirby Smart,HC,9
 Georgia,Mike Bobo,OC,7
-Georgia,Will Muschamp,DC,7
+Georgia,Travaris Robinson,DC,7
 Georgia Tech,Brent Key,HC,3
 Georgia Tech,Buster Faulker,OC,3
 Georgia Tech,Kevin Sherrer,DC,3
@@ -207,7 +207,7 @@ Ohio,Tim Albin,HC,6
 Ohio,Scott Isphording,OC,6
 Ohio,Spence Nowinsky,DC,6
 Ohio State,Ryan Day,HC,9
-Ohio State,Brian Hartline,OC,8
+Ohio State,Chip Kelly,OC,8
 Ohio State,Jim Knowles,DC,7
 Oklahoma,Brent Venables,HC,8
 Oklahoma,Seth Littrell,OC,7
@@ -242,7 +242,7 @@ Rutgers,Joe Harasymiak,DC,4
 San Diego State,Sean Lewis,HC,6
 San Diego State,Jeff Hecklinski,OC,5
 San Diego State,Eric Schmidt,DC,6
-San Jose State,Brent Brennan,HC,5
+San Jose State,Ken Niumatalolo,HC,7
 San Jose State,Kevin McGiven,OC,5
 San Jose State,Derrick Odum,DC,5
 Southern Methodist,Rhett Lashlee,HC,4
@@ -293,8 +293,8 @@ Tulsa,Chris Polizzi,DC,5
 UAB,Trent Dilfer,HC,5
 UAB,Alex Mortenson,OC,4
 UAB,Sione Ta'ufo'ou,DC,4
-UCLA,Chip Kelly,HC,8
-UCLA,Derek Sage,OC,6
+UCLA,DeShaun Foster,HC,6
+UCLA,Eric Bieniemy,OC,8
 UCLA,Ikaika Malloe,DC,6
 UConn,Jim Mora,HC,6
 UConn,Nick Charlton,OC,5
@@ -307,7 +307,7 @@ USC,Josh Henson,OC,7
 USC,D'Anton Lynn,DC,7
 Utah,Kyle Whittingham,HC,8
 Utah,Andy Ludwig,OC,7
-Utah,Morgan Scalley,DC,8
+Utah,Morgan Scalley,DC,9
 Utah State,Blake Anderson,HC,6
 Utah State,Kyle Cefalo,OC,5
 Utah State,Joe Cauthen,DC,5
@@ -326,9 +326,9 @@ Virginia Tech,Chris Marve,DC,6
 Wake Forest,Dave Clawson,HC,7
 Wake Forest,Warren Ruggiero,OC,6
 Wake Forest,Brad Lambert,DC,6
-Washington,Kalen Deboer,HC,8
-Washington,Ryan Grubb,OC,7
-Washington,Chuck Morrell,DC,7
+Washington,Jedd Fisch,HC,7
+Washington,Brennan Carroll,OC,7
+Washington,Stephen Belichick,DC,7
 Washington State,Jake Dickery,HC,7
 Washington State,Ben Arbuckle,OC,5
 Washington State,Jeff Schmedding,DC,5
